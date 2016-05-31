@@ -1,0 +1,20 @@
+/*#21 {
+  font-size: 50pt;
+}
+
+#1 {
+  font-size: 50pt;
+}*/
+
+#initially-hidden {
+  display: none;
+}
+
+.clickable, .close {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
